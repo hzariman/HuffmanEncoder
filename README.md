@@ -1,0 +1,2 @@
+# HuffmanEncoder
+ Compress/decompress files
